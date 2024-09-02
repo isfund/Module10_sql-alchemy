@@ -3,7 +3,7 @@ This project involves analyzing climate data from the Hawaiian Islands and creat
 
 The following was done for this project:
 - Climate Data Analysis: Analyze temperature and precipitation data from various weather stations in Hawaii.
-- Flask API: Provide easy access to the climate data through a RESTful API.
+- Flask API: Provide easy access to the climate data through API.
 
 The Project Contains Files:
 app.py: Flask application that handles the API routes.
